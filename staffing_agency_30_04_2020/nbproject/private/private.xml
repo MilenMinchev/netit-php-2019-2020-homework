@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/staffing_agency/admin.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/controllers/RegistrationController.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/nbprojects/project.xml</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/controllers/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/db/Database.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/session/Session.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/controllers/AdminController.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/nbprojects/project.properties</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/logout.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/registration.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/routes/PostApi.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/groups.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/controllers/GroupController.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/external_autoload.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/user/User.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/scripts/vendor/jquery.js</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/endpoint.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/nbprojects/private/private.properties</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/routes.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/controllers/IndexController.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/blogpost/BlogPost.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/config/Config.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/scripts/application/grouos.js</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/index.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/routes/GroupApi.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/login.php</file>
+            <file>file:/C:/xampp/htdocs/staffing_agency/nbprojects/private/private.xml</file>
+        </group>
+    </open-files>
+</project-private>
